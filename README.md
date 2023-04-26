@@ -6,4 +6,4 @@ format name for advanced programming class
 	No. Group: 17
 	Group participants: 
 	- dude1 
-	- dude2			*/
+	- dude2				*/
